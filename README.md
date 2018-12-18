@@ -3,5 +3,10 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-Time tracker yang diedit Master
-Ini diedit di Master Branch
+Time tracker
+
+Something is different here!
+Edited on update-branch
+
+Ngawur ieu
+
